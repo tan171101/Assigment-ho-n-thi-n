@@ -1,0 +1,319 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    width: 1175px;
+}
+.top2{
+    background-color:#0065C3;
+    height: 70px;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.tim-kiem{
+    margin-top: 15px;
+}
+.tim-kiem input{
+    width: 400px;
+    height: 30px;
+}
+.tim-kiem button{
+    width: 40px;
+    height: 30px;
+    background-color: red;
+    margin-left: -10px;
+}
+
+.menu{
+    height: 60px;
+    background-color: #EC5050;
+}
+.nav li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: -12px;
+}
+.nav li a:hover{
+    color: white;
+    
+}
+.nav a{
+    color: black;
+    text-decoration: none;
+}
+.s-p:hover{
+    width: 210px;
+}
+.social:hover{
+    width: 260px;
+    height: 260px;
+}
+.logo img:hover{
+    width: 155px;
+}
+
+
+
+/* trang chủ */
+.ct{
+    background-color: white;
+    margin-top: 20px;
+    border: solid 1px;
+}
+.conten-tc{
+    height: 430px;
+}
+.tc2{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 450px;
+    border: solid 1px;
+}
+.content-tc{
+    margin-top: 30px;
+}
+
+.container2{
+    margin-top: 60px;
+}
+.content-ph{
+    background-color: white;
+    height: 450px;
+    border: solid 1px;
+}
+.h3{
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.nhapph{
+    margin-top: 20px;
+}
+.nhapph form{
+    margin-left: 150px;
+}
+.ten{
+    width: 250px;
+}
+.email{
+    width: 250px;
+}
+.tieude{
+    height: 60px;
+}
+.noidung{
+    height: 60px;
+}
+.submit{
+    margin-left: 150px;
+    width: 70px;
+    height: 40px;
+    border-radius: 5px;
+}
+.submit:hover{
+    border: blue solid 3px;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* sản phẩm */
+.sp{
+    border: solid 1px;
+    margin-top: 20px;
+}
+.conten1{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.conten1-1{
+    margin-top: 50px;
+}
+.conten1-1 a{
+    color: white;
+}
+.conten1-1 a:hover{
+    color: white;
+}
+.btns{
+    background-color: #575454;
+    border: none;
+}
+.conten2{
+    height: 400px;
+}
+.conten3{
+    height: 400px;
+
+}
+.container1{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+/* giới thiệu */
+.contentgt{
+    width: 1175px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 1px;
+}
+.title h2{
+    text-align: center;
+}
+.gt{
+    margin-top: 40px;
+}
+.bang{
+    margin-left: 90px;
+}
+.text{
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+.sodo{
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+/* liên hệ */
+.containerlh{
+    width: 1175px;
+    
+}
+.lh{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 1px;
+}
+
+.map h2{
+    margin-top: 40px;
+    margin-left: 20px;
+    color: #EC1C1C;
+}
+.map p{
+    margin: 30px;
+}
+
+
+
+
+
+
+
+
+.footer{
+    width: 1175px;
+    background-color: #0065C3;
+    height: 500px;
+    margin-top: 20px;
+}
+.logo2{
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.ttlh{
+    margin-top: 15px;
+    margin-left: 200px;
+    color: white;
+}
+.tt{
+    font-size: 18px;
+}
+.htnpp{
+    margin-top: 90px;
+    margin-left: 40px;
+    color: white;
+}
+.icon{
+    margin-top: 40px;
+}
+/*
+.icon3:hover{
+  
+}
+
+
+
+
+
+
+/*giới thiệu sản phẩm*/
+.gtsp{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 1px;
+}
+.tt{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.chonmua{
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+#shopnow{
+    text-decoration: none;
+    background-color: #0065C3;
+    color: seashell;
+    padding: 20px 150px;
+    font-size: 16px;
+    border-radius: 13px;
+}
+#shopnow:hover{
+    background-color: #EC1C1C;
+}
+.anhsp{
+    border: black solid 1px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+}
+.ttsp{
+    background-color: white;
+    border: solid 1px;
+}
+.ttsp2{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+.tp{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 60px;
+}
+.content3{
+    background-color: white;
+    margin-top: 20px;
+    border: solid 1px;
+}
+.title2{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
